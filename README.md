@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi, I am REREREGO 👋
 
+## 🧑‍💻 我是谁
+目前就读于：福州大学
+专业：计算机科学与技术（实验班）
+学习方向：计算机视觉
+爱好：摄影📷
+## 🚀 最近在做
+| 时间 | 项目 | 关键词 |
+|---|---|---|
 <!--
 **REREREGO/REREREGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
