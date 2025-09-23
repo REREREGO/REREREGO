@@ -2,13 +2,14 @@
 
 ## 🧑‍💻 我是谁
 
-<p align="center">
-  <img src="https://github.com/REREREGO.png" width="150" style="border-radius:50%"/>
-</p>
-<p>专业：计算机科学与技术（实验班）</p>
-<p>学习方向：计算机视觉</p>
-<p>爱好：摄影📷</p>
-<p>目前就读于：福州大学</p>
+<img align="left" src="https://github.com/REREREGO.png" width="150" style="border-radius:50%"/>
+
+---
+
+**专业：** 计算机科学与技术（实验班）  
+**学习方向：** 计算机视觉  
+**爱好：** 摄影📷  
+**目前就读于：** 福州大学
  
 ## 🚀 最近在做
 
