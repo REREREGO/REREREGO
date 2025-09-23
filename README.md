@@ -5,7 +5,7 @@
 <img align="left" src="https://github.com/REREREGO.png" width="150" style="border-radius:50%"/>
 
 ---
-
+**姓名：** 郑隆熙  
 **专业：** 计算机科学与技术（实验班）  
 **学习方向：** 计算机视觉  
 **爱好：** 摄影📷  
