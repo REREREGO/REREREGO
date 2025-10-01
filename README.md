@@ -2,15 +2,16 @@
 
 ## 🧑‍💻 我是谁
 
-<img align="left" src="https://github.com/REREREGO.png" width="150" style="border-radius:50%"/>
+<img align="left" src="https://github.com/REREREGO.png" width="180" style="border-radius:50%"/>
 
 ---
 **姓名：** 郑隆熙  
 **专业：** 计算机科学与技术（实验班）   
 **爱好：** 摄影📷  
-**学习方向:** 计算机视觉
-**目前就读于：** 福州大学
-**如何联系我：**  zlx.2005@qq.com
+**学习方向:** 计算机视觉    
+**目前就读于：** 福州大学    
+**如何联系我：** 156362755@qq.com    
+
 
 ## 🏅获奖经历
 - 第16届蓝桥杯全国软件和信息技术专业人才大赛总决赛C/C++程序设计大学A组三等奖
